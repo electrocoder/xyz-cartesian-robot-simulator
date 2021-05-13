@@ -23,3 +23,6 @@ Other images
 ![alt text](./img/xyz-cartesian-robot-simulator-image3.png)
 ![alt text](./img/xyz-cartesian-robot-simulator-image4.png)
 
+Github Download Source Code [link](https://github.com/electrocoder/xyz-cartesian-robot-simulator/archive/refs/heads/main.zip)
+
+Github Download Windows Exe [link](https://github.com/electrocoder/xyz-cartesian-robot-simulator/blob/main/output/xyz_v6.exe)
